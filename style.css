@@ -1,0 +1,622 @@
+body {
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.head-container {
+    background-color: orangered;
+}
+
+.MAIL {
+    color: white;
+    margin: 10px;
+    vertical-align: sub;
+}
+
+.MAIL a {
+    color: white;
+}
+
+.MAIL a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.btn-donate {
+    float: right;
+    border: none;
+    margin-top: 0;
+    background-color: #000;
+    padding: 8px 20px;
+}
+
+.btn-donate a {
+    background-color: black;
+    color: white;
+}
+
+.btn-donate a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.PHONE {
+    vertical-align: sub;
+    color: white;
+}
+
+
+/* .logo-text {
+                                line-height: 1rem;
+                            }
+                             */
+
+nav-bar ul {
+    list-style-type: none;
+    margin-left: 283px;
+    margin-top: 13px;
+}
+
+nav-bar li {
+    color: orangered;
+    float: left;
+}
+
+.icons-branded li {
+    margin-right: 20px;
+}
+
+nav-bar a {
+    text-decoration: none;
+}
+
+.latest-section-footer span {
+    display: block;
+}
+
+.latest-section-footer li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav-bar li a {
+    display: block;
+    padding: 12px 15px;
+    text-decoration: none;
+}
+
+.logo-head {
+    margin-top: 13px;
+    margin-left: 40px;
+}
+
+nav-bar li a:hover {
+    background-color: orangered;
+    color: white;
+}
+
+.hero-image {
+    background-image: url("images/hero.jpg");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+.text-donate {
+    font-size: 5rem;
+    /* margin-left: 226px; */
+    line-height: 69px;
+    color: white
+}
+
+.p1 {
+    font-size: 2rem;
+    /* margin-left: 226px; */
+    font-size: 40px;
+    width: 20px;
+    display: inline;
+    color: white;
+}
+
+.p2 {
+    /* margin-left: 226px; */
+    color: white;
+}
+
+.button-line {
+    /* margin-left: 226px; */
+    font-size: small;
+    border-radius: 44px / 53px;
+}
+
+.btn1 {
+    border-radius: 44px / 53px;
+    border: 1px solid orangered;
+    color: black;
+    font-size: 16px;
+    line-height: inherit;
+    font-family: 'Montserrat', sans-serif;
+    background-color: orangered;
+    padding: 12px 20px;
+}
+
+.btn1:active {
+    border: none;
+}
+
+.btn2 {
+    border-radius: 44px / 53px;
+    border: 1px solid orangered;
+    color: black;
+    font-size: 16px;
+    line-height: inherit;
+    font-family: 'Montserrat', sans-serif;
+    padding: 12px 20px;
+}
+
+.btn2:hover {
+    border: none;
+    background-color: orangered
+}
+
+.hero-image-text {
+    padding: 72px;
+}
+
+.next-btn {
+    float: right;
+    margin-top: 0%;
+    border-radius: 50%;
+    background-color: orangered;
+    width: 36px;
+    margin-top: -147px;
+}
+
+.next-btn a {
+    display: inline-block;
+    padding: 8px 16px;
+    color: white;
+}
+
+.next-btn .next:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* .column1 {
+                            background-color: orangered;
+                            height: 300px;
+                            width: -88px;
+                            padding: 41px;
+                            border-radius: 22px;
+                            margin-left: 221px;
+                            text-align: center;
+                            padding-bottom: 20px;
+                        }
+                        
+                        .column2 {
+                            background-color: gray;
+                            border-radius: 22px;
+                            height: 300px;
+                            width: -88px;
+                            margin-left: 47px;
+                            text-align: center;
+                            padding: 41px;
+                        }
+                        
+                        .column3 {
+                            background-color: gray;
+                            border-radius: 22px;
+                            height: 300px;
+                            width: -88px;
+                            text-align: center;
+                            margin-left: 47px;
+                            padding: 41px;
+                        } */
+
+
+/* .row {
+                            line-height: 2;
+                            vertical-align: sub;
+                            padding-top: 50px;
+                            padding-bottom: 50px;
+                            margin-left: -78px;
+                        }
+                         */
+
+
+/* .abc {
+                            border-radius: 22px;
+                            height: 300px;
+                            width: 300px;
+                        } */
+
+.abc {
+    margin-top: 40px;
+    display: -webkit-inline-box;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-left: 35px;
+}
+
+.ab {
+    height: 320px;
+    background-color: orangered;
+    border-radius: 22px;
+    text-align: center;
+}
+
+.ab:active {
+    border: none;
+}
+
+.bc {
+    height: 320px;
+    background-color: gray;
+    border-radius: 22px;
+    text-align: center;
+}
+
+.bc:hover {
+    border: none;
+    background-color: orangered;
+}
+
+.ca {
+    height: 320px;
+    background-color: gray;
+    border-radius: 22px;
+    text-align: center;
+}
+
+.ca:hover {
+    border: none;
+    background-color: orangered;
+}
+
+.ab,
+.ca,
+.bc {
+    padding: 40px;
+}
+
+.upcoming-events {
+    padding: 32px;
+}
+
+.below-hero-image-section {
+    margin: 20px auto;
+}
+
+.bg-img {
+    background-image: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .9)), url("images/welcome-bg.jpg");
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-image-text h1 {
+    color: white;
+    margin-top: 110px;
+}
+
+#welcome-section {
+    padding: 20px 0px;
+}
+
+.bg-image-text p {
+    color: white;
+}
+
+.text2 {
+    margin-top: 12px;
+}
+
+.h-jpg {
+    width: 110px;
+}
+
+.h6 {
+    font-size: 14px;
+    margin-bottom: -17px;
+}
+
+.ball {
+    margin-top: -24px;
+    font-size: 14px;
+}
+
+.p-text {
+    font-size: 15px;
+    margin-top: -13px;
+}
+
+.read {
+    color: orangered;
+    text-align: left;
+    width: 80px;
+}
+
+.read-more-btn {
+    background-color: orangered;
+    color: white;
+    border-radius: 21px;
+    border-color: none;
+    font-size: 15px;
+    line-height: inherit;
+    font-family: 'Montserrat', sans-serif;
+    padding: 12px 20px;
+}
+
+.read-more-btn:hover {
+    border: none;
+    color: white;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+.btn4 {
+    background-color: orangered;
+    border-radius: 21px;
+    color: white;
+    font-size: 16px;
+    line-height: 1.8;
+    font-family: 'Montserrat', sans-serif;
+    padding: 6px 10px;
+    -webkit-appearance: none;
+    border: 0;
+}
+
+.range {
+    width: 5px;
+}
+
+.fund-bar {
+    width: 408px;
+    margin: 28px;
+}
+
+.fund-bar .slider {
+    -webkit-appearance: none;
+    width: 83%;
+    height: 6px;
+    background: orangered;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.fund-bar .slider:hover {
+    opacity: 1;
+}
+
+.fund-bar .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: orangered;
+    cursor: pointer;
+}
+
+.fund-bar .slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: orangered;
+    cursor: pointer;
+}
+
+.fund-raiser-text {
+    color: gray;
+}
+
+.fund-total {
+    color: gray;
+}
+
+.bg-cause-image {
+    background-image: url('images/cause-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+}
+
+.upcoming-events {
+    margin-bottom: 2.5rem;
+}
+
+.our-causes {
+    padding: 96px 0;
+}
+
+.our-cause-text {
+    padding: 24px;
+}
+
+.bring-water-text {
+    background-color: white;
+    text-align: left;
+    padding: 27px;
+}
+
+.featured-cause-text {
+    background-color: lightgray;
+    padding: 29px;
+}
+
+.h-content {
+    padding-bottom: 36px;
+    line-height: 1.6;
+    padding: 26px;
+}
+
+.p-content {
+    padding: 8px;
+}
+
+.right-content {
+    margin-top: 241px;
+}
+
+.h2-content-font {
+    font-size: 40px;
+}
+
+.footer-image {
+    position: relative;
+    padding: 96px 0 90px;
+    font-weight: 500;
+    color: #929191;
+    background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .9)), url(images/foot-bg.jpg) no-repeat center;
+    background-size: cover;
+    z-index: 99;
+}
+
+.foot-text-1 {
+    margin-top: 8px;
+    text-align: left;
+    font-size: 14px
+}
+
+.icons-branded {
+    padding: 12px 0 0;
+    margin: 0;
+    list-style: none;
+}
+
+.icons-branded a {
+    color: white;
+}
+
+.icons-branded a:hover {
+    color: orangered;
+}
+
+.useful-text-color {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.foot-list-item {
+    list-style: none;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.foot-list-item a {
+    color: gray;
+    text-align: -webkit-left;
+}
+
+.foot-list-item a:hover {
+    color: orangered
+}
+
+.latest-news-color {
+    color: white;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.love-text-color {
+    font-size: 14px;
+}
+
+ul {
+    list-style: none;
+    font-size: 14px;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul a {
+    color: gray;
+}
+
+ul a:hover {
+    color: orangered;
+}
+
+.usefull-link-section-ftr li {
+    margin-bottom: 10px;
+}
+
+.foot-date {
+    color: orangered;
+}
+
+.contact-text {
+    color: white;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.contact-use-section-ftr li {
+    margin-bottom: 10px;
+}
+
+.address-details ul li .fa {
+    width: 28px;
+    margin-right: 10px;
+    font-size: 18px;
+    text-align: center;
+    color: #ff5a00;
+}
+
+.footer-box ul li {
+    list-style-type: none;
+}
+
+.subscribe-form input[type="email"] {
+    color: gray;
+    height: 40px;
+    padding: 0px 7px;
+    width: 70%;
+    float: left;
+}
+
+.subscribe-form input[type="submit"] {
+    background: #ff5a00;
+    border: none;
+    color: white;
+    height: 40px;
+    padding: 0px 10px;
+}
+
+.footer-box-text a {
+    color: rgb(34, 32, 32);
+    padding: 5px;
+    background-color: transparent;
+    text-transform: lowercase;
+}
+
+.footer-box-text a:hover {
+    color: #757686;
+    background-color: transparent;
+}
+
+.footer-box-img {
+    text-align: center;
+    font-size: 11px;
+    background-color: black;
+    padding: 25px;
+    margin-top: 70px;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    font-size: 11px;
+}
